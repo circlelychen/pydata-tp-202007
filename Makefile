@@ -1,4 +1,4 @@
-.PHONY: clean test lint init check-readme
+.PHONY: clean
 
 JOBS ?= 1
 

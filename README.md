@@ -10,5 +10,10 @@ $> pip3 install -r req.txt
 Prepare model files for ckiptagger and spacy
 ```bash
 $> make prepare-ckiptagger-model
-$> make prepare-spacy-en-model
+```
+
+## How to run demo 
+```bash
+$> cd ./src
+$> python3 cluster.py
 ```
